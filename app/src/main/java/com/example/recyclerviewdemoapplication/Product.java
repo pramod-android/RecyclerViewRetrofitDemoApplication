@@ -3,7 +3,7 @@ package com.example.recyclerviewdemoapplication;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class    Product {
+public class Product {
 
     @SerializedName("productName")
     @Expose
